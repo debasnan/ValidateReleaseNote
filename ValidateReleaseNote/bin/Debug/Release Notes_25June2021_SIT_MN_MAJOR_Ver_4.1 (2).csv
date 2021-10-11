@@ -1,0 +1,8 @@
+Line Number,CR/Defect Reference,File Name,Change Type,Git Check In Reference
+1,Defect 3226,CREATE_VARIANT.xml,Configuration,https://10.38.23.222/RB-OPTIVA-PLM/PLM-Programme/commit/bfcca62b942529bd492f1345fc2bb6901a0df0f31
+2,Defect 3226,CREATE_VARIANT_GDA.xml,Configuration,https://10.38.23.222/RB-OPTIVA-PLM/PLM-Programme/commit/bfcca62b942529bd492f1345fc2bb6901a0df0f3
+3,Defect 3236,DE88_TO_REQ_CNG_ITEM_BEGIN.vb,Code,https://10.38.23.222/RB-OPTIVA-PLM/PLM-Programme/commit/b811b3c0632a9861b3655f4bfb8312447b24e2ee
+4,Defect 3210,Test1.xml,Configuration,
+5,Defect 3240,FORMULA_PUF.RPT,Code,https://10.38.23.222/RB-OPTIVA-PLM/PLM-Programme/commit/a9ad365b1406d38ceaab9086ef8c368e6dcc2a09
+6,Defect 3234,ME_FRM_ADDSUPPLIER_2.vb,Code,https://10.38.23.222/RB-OPTIVA-PLM/PLM-Programme/commit/6902e4f26e78663ed8e23b1446722598bfb9366e
+7,RITM1116395,C_COMPNT_PRNTD.xml,Configuration,https://10.38.23.222/RB-OPTIVA-PLM/PLM-Programme/commit/5c2a6e76e52926e38e3cd144a0dd8a2d2a1f6a84
